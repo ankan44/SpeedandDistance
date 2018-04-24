@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1010577030471",
+    "firebase_url": "https://androidspeedtrap.firebaseio.com",
+    "project_id": "androidspeedtrap",
+    "storage_bucket": "androidspeedtrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010577030471:android:111999f40b6b42d9",
+        "android_client_info": {
+          "package_name": "com.example.ankan.androidspeeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010577030471-vcnjqtmjof20bog7uuvnn5b6dr6q3931.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5IaZbO7beWxK1kswdcYZLPBVlf04ya0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
